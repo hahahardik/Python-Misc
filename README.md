@@ -1,6 +1,5 @@
 # Python-Misc
-## This repo contains:
-### 1. General Purpose Codes
+## This repo contains <br> ### 1. General Purpose Codes
 This folder contains some basic general utility codes which can find application anywhere.
 ### 2. Project Euler
 This folder contains my solutions to programming questions from [Project Euler](https://projecteuler.net/archives "Project Euler")
