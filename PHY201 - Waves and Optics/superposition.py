@@ -11,7 +11,7 @@ import numpy.matlib
 
 #%% Define parameters
 n_f = 100        # Number of modes (total available)
-freq = np.range(1, n_f)
+freq = np.arange(1, n_f)
 
 #%% EDIT THESE PARAMETERS
 #=============================================================================#
