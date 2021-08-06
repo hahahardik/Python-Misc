@@ -20,7 +20,9 @@ f1 = 50    # Frequency of oscillator 1 (Hz)
 f2 = 13    # Frequency of oscillator 2 (Hz)
 a1 = 1      # Amplitude of oscillator 1 (arbitrary units)
 a2 = 0.1      # Amplitude of oscillator 2 (arbitrary units)
-p = 0.5       # Phase difference between the two oscillators, phi_2 - phi_1 (pi rad)
+p = 0.5       # Phase difference between the two oscillators, phi_2 - phi_1 (pi/rad)
+    		  # Phase diff of 180 deg: p = 1
+			  # Phase diff of 90 deg: p = 0.5
 t_end = 1   # End of time axis (s)
 
 #=============================================================================#
