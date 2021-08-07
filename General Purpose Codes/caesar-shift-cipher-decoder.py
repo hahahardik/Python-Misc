@@ -1,8 +1,8 @@
 import string
 
-def caesar_shift_cipher(sentence, shift=3):
+def caesar_shift_decoder(sentence, shift=3):
     
-    '''This is a caeser shift decoder, which decodes one sentence at a time.
+    '''This is a caeser shift cipher decoder, which decodes one sentence at a time.
     For the shift value, if shift = 3 (shift value used by Caesar himself),
     then A becomes D, B becomes E, W becomes Z and Z becomes C and so on,
     '''
