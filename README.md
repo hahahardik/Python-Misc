@@ -5,5 +5,5 @@ This folder contains some basic general utility codes which can find application
 #### 2. Project Euler
 This folder contains my solutions to programming questions from [Project Euler](https://projecteuler.net/archives "Project Euler")
 #### 3. PHY201 - Waves and Optics
-This folder contains scripts used to visualize the concepts discussed in the course PHY201 - Waves and Optics during Fall - 2021 at IISER Bhopal. 
+This folder contains scripts used to visualize the concepts discussed in the course PHY201 - Waves and Optics - Fall 2021 at IISER Bhopal. 
 Course Instructor: Dr. Rohan Singh
